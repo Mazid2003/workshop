@@ -1,6 +1,7 @@
-🛠️ Workshop on Artificial Intelligence & Cyber Security
+# 🛠️ Workshop on Artificial Intelligence & Cyber Security
 
-I recently attended a workshop on Artificial Intelligence and Cyber Security, where I gained hands-on experience with various AI and cybersecurity tools. The key takeaways from the workshop include:
+I recently attended a workshop on Artificial Intelligence and Cyber Security, where I gained hands-on experience with various AI and cybersecurity tools. The key takeaways from the 
+workshop include:
 
 🔹 Developing a Telegram Bot using APIs for automation and real-time interactions.
 
